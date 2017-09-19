@@ -1,0 +1,22 @@
+{
+  "name": "electron-grocery-list",
+  "version": "1.0.0",
+  "description": "Minimal grocery list desktop application using Electron.js and Materialize",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanDanielOMara/electron-grocery-list.git"
+  },
+  "author": "Ryan O'Mara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanDanielOMara/electron-grocery-list/issues"
+  },
+  "homepage": "https://github.com/RyanDanielOMara/electron-grocery-list#readme",
+  "dependencies": {
+    "electron": "^1.7.6"
+  }
+}
